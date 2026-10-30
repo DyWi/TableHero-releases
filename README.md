@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/icon.png" width="128" height="128" alt="TableHero icon"></p>
+
 # TableHero — macOS releases
 
 Built releases of the TableHero desktop app. **No source code lives here.**
